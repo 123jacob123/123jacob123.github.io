@@ -1,1 +1,1 @@
-banner{    margin: 0;    background: pink;    text-align: center;      font-size:  46px;     }body{    background: red;}
+*{    background: lightblue;}banner{    margin: 0;    background: pink;    text-align: center;      font-size:  46px;     }body{    color: red;}
